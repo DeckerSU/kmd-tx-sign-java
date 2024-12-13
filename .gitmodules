@@ -1,0 +1,3 @@
+[submodule "bitcorej"]
+	path = bitcorej
+	url = https://github.com/DeckerSU/bitcorej
